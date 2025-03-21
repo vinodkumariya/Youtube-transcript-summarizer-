@@ -13,8 +13,6 @@ An end-to-end application that transcribes YouTube videos and provides a concise
 - [4. Build User Interface with Streamlit](#4-build-user-interface-with-streamlit)
 - [5. Handle Transcription and Summarization Logic](#5-handle-transcription-and-summarization-logic)
 - [6. Display Results](#6-display-results)
-- [7. Installation](#7-installation)
-- [8. Deployment](#8-deployment)
 
 ---
 
